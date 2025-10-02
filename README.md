@@ -7,6 +7,8 @@ List of portfolio sections:
     index.html
     js.js
 
+Link to live site: https://github.com/rosetecarljustine/Carl-Justine_Rosete_Webportfolio
+
 Tech used: Laptop
 
 Contact info:
